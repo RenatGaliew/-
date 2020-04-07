@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Подбор кандидатов", "Подбор кандидатов\Подбор кандидатов.csproj", "{E871B550-DF82-4504-BC69-4A20785CD6E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Подбор кандидатов, выгрузка данных", "Подбор кандидатов, выгрузка данных\Подбор кандидатов, выгрузка данных.csproj", "{055C50CD-F32F-4636-974B-03AB10BF9860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E871B550-DF82-4504-BC69-4A20785CD6E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E871B550-DF82-4504-BC69-4A20785CD6E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E871B550-DF82-4504-BC69-4A20785CD6E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E871B550-DF82-4504-BC69-4A20785CD6E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055C50CD-F32F-4636-974B-03AB10BF9860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055C50CD-F32F-4636-974B-03AB10BF9860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055C50CD-F32F-4636-974B-03AB10BF9860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055C50CD-F32F-4636-974B-03AB10BF9860}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2101900-BFF1-4FA3-AA94-5679410F906E}
+	EndGlobalSection
+EndGlobal
